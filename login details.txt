@@ -1,0 +1,8 @@
+Admin Login
+Admin Username: admin
+Admin Password: admin1234
+
+User Login
+Client Email: jsmith@sample.com
+Client Password: jsmith123
+
